@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="feffdd6b-268e-4d94-adf5-0769f8c15865" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../Teste vaga qa/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Teste vaga qa/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1ere6HEEmy2rpmbzZHiIKhxe2H4" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Markdown" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Teste vaga qa" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ivy.oliveira\Documents\Testes Prova QA\Testes_charles\Teste_web" />
+      <recent name="C:\Users\ivy.oliveira\Documents\Testes Prova QA\Testes_charles" />
+    </key>
+  </component>
+  <component name="SpringUtil" SPRING_PRE_LOADER_OPTION="true" RAKE_SPRING_PRE_LOADER_OPTION="true" RAILS_SPRING_PRE_LOADER_OPTION="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="feffdd6b-268e-4d94-adf5-0769f8c15865" name="Default Changelist" comment="" />
+      <created>1595083961772</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1595083961772</updated>
+      <workItem from="1595083962956" duration="24880000" />
+      <workItem from="1595111384781" duration="7000" />
+      <workItem from="1595178205945" duration="1468000" />
+      <workItem from="1595181632919" duration="10000" />
+      <workItem from="1595181652604" duration="2000" />
+      <workItem from="1595183811099" duration="5000" />
+      <workItem from="1595254423773" duration="10297000" />
+      <workItem from="1595281942189" duration="1236000" />
+      <workItem from="1595343508658" duration="1375000" />
+      <workItem from="1595345510349" duration="2134000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1288" y="147" key="FileChooserDialogImpl" timestamp="1595345515192">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1288" y="147" key="FileChooserDialogImpl/0.0.1280.680/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1595345515192" />
+    <state x="421" y="96" key="FileChooserDialogImpl/0.0.1280.680/-1920.0.1920.1040@0.0.1280.680" timestamp="1595281975382" />
+    <state x="421" y="96" key="FileChooserDialogImpl/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1595178623002" />
+  </component>
+</project>
